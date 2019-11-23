@@ -1,7 +1,8 @@
 #Installation:
 1. Clone the repo
 2. Run npm install
-3. The application should be running on /localhost:3000
+3. Run npm start
+4. The application should be running on /localhost:3000
 
 #Build
 1. Run npm run build
